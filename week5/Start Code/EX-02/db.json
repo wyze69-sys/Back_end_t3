@@ -1,0 +1,67 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Breaking News: Local Team Wins Championship",
+      "content": "The local team secured a dramatic victory in the final match.",
+      "journalistId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "title": "Technology Advances in 2026",
+      "content": "New tools and platforms are changing how developers build applications.",
+      "journalistId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": "3",
+      "title": "Health Tips for Students",
+      "content": "Simple habits like sleeping well and staying active can improve study performance.",
+      "journalistId": 3,
+      "categoryId": 3
+    },
+    {
+      "id": "4",
+      "title": "Sports Training Program Opens",
+      "content": "A new training program is helping young athletes improve their skills.",
+      "journalistId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": "5",
+      "title": "New Study Tools for Developers",
+      "content": "Students are using modern web tools to practice backend and frontend development.",
+      "journalistId": 2,
+      "categoryId": 2
+    }
+  ],
+  "journalists": [
+    {
+      "id": 1,
+      "name": "Alice Johnson"
+    },
+    {
+      "id": 2,
+      "name": "Ben Smith"
+    },
+    {
+      "id": 3,
+      "name": "Clara Lee"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sports"
+    },
+    {
+      "id": 2,
+      "name": "Technology"
+    },
+    {
+      "id": 3,
+      "name": "Health"
+    }
+  ]
+}

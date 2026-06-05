@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Breaking News: Local Team Wins Championship",
+      "content": "The local team secured a dramatic victory in the final match.",
+      "journalistId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "title": "Technology Advances in 2026",
+      "content": "New tools and platforms are changing how developers build applications.",
+      "journalistId": 2,
+      "categoryId": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
