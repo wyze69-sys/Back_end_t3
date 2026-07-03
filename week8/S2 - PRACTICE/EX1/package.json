@@ -1,0 +1,9 @@
+{
+  "name": "sequelize-practice",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
